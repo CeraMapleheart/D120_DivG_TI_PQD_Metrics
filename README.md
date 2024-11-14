@@ -1,7 +1,6 @@
 | **Category**                   | **Parameters**                                                       | **Sub-Parameters**                                                                                     |
 |--------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| **1. Membership Tracking**     | **Member Information**                                              | - Name<br>- Contact Details (Email, Phone)<br>- Join Date<br>- Membership Type (e.g., Regular, Honorary) |
-|                                | **Attendance Records**                                             | - Meeting Dates Attended<br>- Total Meetings Held<br>- Attendance Percentage                          |
+| **1. Membership Tracking**     | **Attendance Records**                                             | - Meeting Dates Attended<br>- Total Meetings Held<br>- Attendance Percentage                          |
 |                                | **Engagement Level**                                              | - Roles Taken (e.g., Speaker, Evaluator, Timer)<br>- Participation in Club Activities (e.g., contests, workshops) |
 | **2. Meeting Quality**         | **Meeting Frequency**                                             | - Scheduled Meeting Dates<br>- Actual Meeting Dates Held                                             |
 |                                | **Roles Filled**                                                  | - Number of Roles Assigned vs. Filled (e.g., President, VP Education)<br>- Role Rotation (who filled which role in each meeting) |
