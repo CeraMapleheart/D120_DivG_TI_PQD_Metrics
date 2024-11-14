@@ -1,8 +1,10 @@
-## PROGRAM QUALITY METRICS - Toastmasters International, District 120, Division G: Areas G1 to G5
-#### TM Roshni Venkatesan, Program Quality Director - Division G
+# PROGRAM QUALITY METRICS - Toastmasters International, District 120, Division G: Areas G1 to G5
+### TM Roshni Venkatesan, Program Quality Director - Division G
 
 ## Overview
 The Program Quality Metrics for District 120, Division G, encompassing the essential aspects of education and training within the Toastmasters framework. This includes promoting quality club programming, supporting the Distinguished Club Program (DCP), and ensuring a positive member experience across Areas G1 to G5.
+
+
 
 | **Category**                   | **Parameters**                                                       | **Sub-Parameters**                                                                                     |
 |--------------------------------|---------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
